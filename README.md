@@ -6,10 +6,10 @@ Permission means to access rights for the owner of the file, the members of a gr
      Each file and directory has three user based permission groups:</br>
      <b>owner</b> - The Owner permissions apply only the owner of the file or directory, they will not impact the actions of other users.</br>
     <b>group</b> - The Group permissions apply only to the group that has been assigned to the file or directory, they will not effect the      actions of other users.</br>
-    <b>other users</b> - The All Users permissions apply to all other users on the system, this is the permission group that you want to watch the most.
+    <b>other users</b> - The All Users permissions apply to all other users on the system, this is the permission group that you want to watch the most.<br></br>
     
     
-   <h2><b> Permission Types</b></h2>
+   <b> Permission Types</b></br>
 Each file or directory has three basic permission types:</br>
 
 <b>read</b> - The Read permission refers to a user's capability to read the contents of the file.</br>
