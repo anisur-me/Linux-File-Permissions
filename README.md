@@ -3,9 +3,9 @@ Permission means to access rights for the owner of the file, the members of a gr
 
 <h2><b>Basic File Permissions</b></h2>
   <b>User based Permission Groups</b>
-     <b>Each file and directory has three user based permission groups:</b>
-     <b>owner</b> - The Owner permissions apply only the owner of the file or directory, they will not impact the actions of other users.<br>
-    <b>group</b> - The Group permissions apply only to the group that has been assigned to the file or directory, they will not effect the      actions of other users.<br>
+     <b>Each file and directory has three user based permission groups:</b></br>
+     <b>owner</b> - The Owner permissions apply only the owner of the file or directory, they will not impact the actions of other users.</br>
+    <b>group</b> - The Group permissions apply only to the group that has been assigned to the file or directory, they will not effect the      actions of other users.</br>
     <b>other users</b> - The All Users permissions apply to all other users on the system, this is the permission group that you want to watch the most.
     
     
